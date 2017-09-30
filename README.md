@@ -7,6 +7,9 @@ The format is: date(date availiable online) + title
 
 This is not capable for all papers, example:...  
 大多数文章都能重命名，但对于有些文章（如标题写在第二页的）还没法解决。  
+  
+特殊字符，如ﬁ直接删掉了  
+
 
 
 
